@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9ef41051dde12e53887b3787e717a1e5036d4921">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b61b4c5f24cc9cda79e8a95e4323d9e93a5f5ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="39d957bbb849ff54a7ce4ca84bd96ddc81339117">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1537e03423af1a21f6ea28968829be23d3c09f0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_b8f949aaff71a1a4f92aaebfe228394831429581\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_255a9c278a2b60fa86b7ce7bcc96e5b7a00fd8b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_06629cad257b501d96f9ce52d99de5a1c1d0ffa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_1eb9a2a6f77a83df9cdeb3747f93526430e7f04a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_2eb68f14f0874b2b3882b37183f069ad4edda00c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_3e587e7841c62002165cfd0860387fda472b0051\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d6e0e4c7b1e0723e0d23edac9c0d6c5aeda3442c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_07183bc2fdd05c7c5676f8cdc6721b3c9ba57022\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_4bc4d3fd792bdb3358722911fdc99448de159130\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_7f4199fb0cbedbe4b19a450ff99d7102b5a9756b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_fa1575061f3c1d15c2b456e9eabd0be2402d1e74\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_39eb7fe24c49d6d2c2b41cc56f3078bc43d6bb68\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c2af1523812b12538813199953d56da35242d9c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7a7065f16db7a539715f2876823821820f258d76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_57f0b02c3980e0124700260e948f8e7467b25c7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_d8ee9354ef2529951ce09f237a5ef01e73c85076\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Vinson\Documents\Handbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_ee4f1362b4c7f8afb2dc0830e4803b2f82e44b4e\classes.dex" />
+    </item>
+
+</items>
